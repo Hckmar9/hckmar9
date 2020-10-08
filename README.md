@@ -13,7 +13,7 @@ For me, my teams go first, happy people make a successful company.
 - Help to remove any kind of impediments so work can be delivered and doubts can be clear.
 - Strategies to reach out deliveries on time and plan to risk detection.
 
-### Process and Software development
+### Process and Software development :shipit:
 I follow the statement: "people over processes", I believe we can always modify our processes to work better. I've been working with Agile methodology, SCRUM framework. It has been useful for my teams.
 
 What I'd ask for you to work with me, and giving the same thing are:
@@ -30,10 +30,10 @@ When sharing feedback I always look out for these items:
 - Clarity.
 - Follow up.
 
-### One on one meetings 🌱
+### One on one meetings 💮
 I personally love the 1:1s. This meetings are important for the individuals to talk about anything they feel they need to talk without boundaries, but always in a respectful way. I have a timebox for these kind of meetings around 30 mins. I believe it's a perfect time to set everything on table. Although, in case of need more time, a new meeting it's the best option. It has been helpful and has worked for me.
 
-### Relationships ⚡
+### Relationships 🎈 
 I've learned that how you feel around someone can sometimes tell you a lot about them. I would encourage people to have healthy and good working relationships to work with best attitude and making his job a safe place to be.
 
-📫 Additionally, my work calendar is not always up to date, but if you need me, just ask and we find the best spot to talk about.
+📫  Additionally, my work calendar is not always up to date, but if you need me, just ask and we find the best spot to talk about.
