@@ -36,4 +36,4 @@ I personally love the 1:1s. This meetings are important for the individuals to t
 ### Relationships 🎈 
 I've learned that how you feel around someone can sometimes tell you a lot about them. I would encourage people to have healthy and good working relationships to work with best attitude and making his job a safe place to be.
 
-📫  Additionally, my work calendar is not always up to date, but if you need me, just ask and we find the best spot to talk about.
+📫  Additionally, my work calendar is not always up to date, but if you need me, just ask and we find the best spot to talk.
