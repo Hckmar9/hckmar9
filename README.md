@@ -1,6 +1,6 @@
 ## Hi there, I'm Tere :information_desk_person:
 I want to share with you how I work in overall as a Technical PM. I'm in continuous growth and moving around as it fits the best for me.
-I have a BS in Computer Science with a Major in Web Technologies. I've been in the IT industry around 10 years now, currently working as Technical PM.
+I have a BS in Computer Science with a Major in Web Technologies. I've been in the IT industry around 13 years now, currently working as Technical PM.
 
 ### My role as Technical Project Manager 🔭
 
