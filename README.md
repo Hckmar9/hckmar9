@@ -1,39 +1,12 @@
-## Hi there, I'm Tere :information_desk_person:
-I want to share with you how I work in overall as a Technical PM. I'm in continuous growth and moving around as it fits the best for me.
-I have a BS in Computer Science with a Major in Web Technologies. I've been in the IT industry around 13 years now, currently working as Technical PM.
+## Hello World! My name is Tere :information_desk_person:
+I'm a dynamic and driven IT Project Manager with a passion for technology and a talent for leading teams to success. With a background in computer science and over 14 years of experience in the field, I'm well-versed in a wide range of technologies and I've a deep understanding of the intricacies of project management.
 
 ### My role as Technical Project Manager 🔭
 
-I have experience as Scrum Master and Product Owner.
-I help to support individual and teams, as help the stakeholders to focus on their product requirements.
+I'm skilled in leading cross-functional teams to be able to motivate and inspire my team members to achieve their full potential. And essential ability for my role is to think strategically and outside the box, that has allowed me to identify opportunities for innovation and implement new solutions that drive business growth.
+ 
+Analytical skills and eye for detail makes a PM an expert problem solver, also the ability to anticipate and mitigate risks is second to none. I believe that dedication to our work and our teams is unmatched, we should we always willing to go the extra mile to ensure the success of our projects.
 
-For me, my teams go first, happy people make a successful company.
-- Provide context and clarity for your work.
-- Help to polish the talent and guide them to keep growing.
-- Help to remove any kind of impediments so work can be delivered and doubts can be clear.
-- Strategies to reach out deliveries on time and plan to risk detection.
+I'm a strong advocate for diversity and inclusion in the tech industry, I like to support people mostly women who looking to break into the field. My goal is to achieve a positive impact in the world through technology.
 
-### Process and Software development :shipit:
-I follow the statement: "people over processes", I believe we can always modify our processes to work better. I've been working with Agile methodology, SCRUM framework. It has been useful for my teams.
-
-What I'd ask for you to work with me, and giving the same thing are:
-- Open and honest communication.
-- Quality over quantity.
-- In order to have good deliveries, all team must be sync and working in harmony.
-- Ask for help and sharing knowledge. 
-
-### Feedback 💬
-I value feedback, it is important to me. I'm always open to hear what opportunity areas I can improve. And for my teams, I like to be clear on the things I notice that can be improved.
-
-When sharing feedback I always look out for these items:
-- Respect.
-- Clarity.
-- Follow up.
-
-### One on one meetings 💮
-I personally love the 1:1s. This meetings are important for the individuals to talk about anything they feel they need to talk without boundaries, but always in a respectful way. I have a timebox for these kind of meetings around 30 mins. I believe it's a perfect time to set everything on table. Although, in case of need more time, a new meeting it's the best option. It has been helpful and has worked for me.
-
-### Relationships 🎈 
-I've learned that how you feel around someone can sometimes tell you a lot about them. I would encourage people to have healthy and good working relationships to work with best attitude and making his job a safe place to be.
-
-📫  Additionally, my work calendar is not always up to date, but if you need me, just ask and we find the best spot to talk.
+Strong teamworks, define a force of innovation, diversity, and progress.
