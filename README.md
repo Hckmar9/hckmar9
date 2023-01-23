@@ -3,7 +3,7 @@ I'm a dynamic and driven IT Project Manager with a passion for technology and a 
 
 ### My role as Technical Project Manager 🔭
 
-I'm skilled in leading cross-functional teams to be able to motivate and inspire my team members to achieve their full potential. And essential ability for my role is to think strategically and outside the box, that has allowed me to identify opportunities for innovation and implement new solutions that drive business growth.
+I'm skilled in leading cross-functional teams to be able to motivate and inspire my team members to achieve their full potential. An essential ability for my role is to think strategically and outside the box, that has allowed me to identify opportunities for innovation and implement new solutions that drive business growth.
  
 Analytical skills and eye for detail makes a PM an expert problem solver, also the ability to anticipate and mitigate risks is second to none. I believe that dedication to our work and our teams is unmatched, we should we always willing to go the extra mile to ensure the success of our projects.
 
