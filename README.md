@@ -7,6 +7,6 @@ I'm skilled in leading cross-functional teams to be able to motivate and inspire
  
 Analytical skills and eye for detail makes a PM an expert problem solver, also the ability to anticipate and mitigate risks is second to none. I believe that dedication to our work and our teams is unmatched, we should we always willing to go the extra mile to ensure the success of our projects.
 
-I'm a strong advocate for diversity and inclusion in the tech industry, I like to support people mostly women who looking to break into the field. My goal is to achieve a positive impact in the world through technology.
+I'm a strong advocate for diversity and inclusion in the tech industry, I like to support people, mostly women who looking to break into the field. My goal is to achieve a positive impact in the world through technology.
 
 Strong teamworks, define a force of innovation, diversity, and progress.
