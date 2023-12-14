@@ -1,4 +1,5 @@
 ## Hello World! My name is Tere :information_desk_person:
+<a href="https://app.daily.dev/hckmar"><img src="https://api.daily.dev/devcards/436578e6bfa14fc59013fa87b73d68a4.png?r=bbs" width="400" alt="Hckmar's Dev Card"/></a>
 I'm a dynamic and driven IT Project Manager with a passion for technology and a talent for leading teams to success. With a background in computer science and over 14 years of experience in the field, I'm well-versed in a wide range of technologies and I've a deep understanding of the intricacies of project management.
 
 ### My role as Technical Project Manager 🔭
