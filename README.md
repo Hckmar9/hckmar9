@@ -10,5 +10,5 @@ Analytical skills and eye for detail makes a PM an expert problem solver, also t
 I'm a strong advocate for diversity and inclusion in the tech industry, I like to support people, mostly women who looking to break into the field. My goal is to achieve a positive impact in the world through technology.
 
 Strong teams, define a force of innovation, diversity, and progress.
-<br />
+<br>
 <a href="https://app.daily.dev/hckmar"><img src="https://api.daily.dev/devcards/436578e6bfa14fc59013fa87b73d68a4.png?r=bbs" width="400" alt="Hckmar's Dev Card"/></a>
