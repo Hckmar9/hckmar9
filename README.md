@@ -11,5 +11,4 @@ I'm a strong advocate for diversity and inclusion in the tech industry, I like t
 
 Strong teams, define a force of innovation, diversity, and progress.
 
-
-<a href="https://app.daily.dev/hckmar"><img src="https://api.daily.dev/devcards/v2/U6Ax8dwrGZd659zGDhl3x.png?r=xb8" width="356" alt="Hckmar's Dev Card"/></a>
+<a href="https://app.daily.dev/hckmar"><img src="https://api.daily.dev/devcards/v2/U6Ax8dwrGZd659zGDhl3x.png?type=default&r=6g5" width="356" alt="Hckmar's Dev Card"/></a>
