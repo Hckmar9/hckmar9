@@ -1,5 +1,5 @@
 ## Hello World! My name is Tere :information_desk_person:
-I'm a dynamic and driven IT Project Manager with a passion for technology and a talent for leading teams to success. With a background in computer science and over 15 years of experience in the field, I'm well-versed in a wide range of technologies and I've a deep understanding of the intricacies of project management.
+I'm a dynamic and driven IT Project Manager with a passion for technology and a talent for leading teams to success. With a background in computer science and over 16 years of experience in the field, I'm well-versed in a wide range of technologies and I've a deep understanding of the intricacies of project management.
 
 ### My role as Technical Project Manager 🔭
 
