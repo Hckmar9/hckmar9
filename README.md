@@ -1,14 +1,14 @@
 ## Hello World! My name is Tere :information_desk_person:
-I'm a dynamic and driven IT Project Manager with a passion for technology and a talent for leading teams to success. With a background in computer science and over 16 years of experience in the field, I'm well-versed in a wide range of technologies and I've a deep understanding of the intricacies of project management.
+I'm an IT Project Manager with over 16 years of experience in the technology sector. I specialize in leading cross-functional teams and fostering innovation to drive business success.
 
 ### My role as Technical Project Manager 🔭
 
-I'm skilled in leading cross-functional teams to be able to motivate and inspire my team members to achieve their full potential. An essential ability for my role is to think strategically and outside the box, that has allowed me to identify opportunities for innovation and implement new solutions that drive business growth.
+In my role, I motivate teams to reach their full potential, strategically identifying opportunities for innovation and implementing effective solutions.
  
-Analytical skills and eye for detail makes a PM an expert problem solver, also the ability to anticipate and mitigate risks is second to none. I believe that dedication to our work and our teams is unmatched, we should we always willing to go the extra mile to ensure the success of our projects.
+Problem-solving, anticipating potential challenges, and mitigating risks are central to ensuring the success of projects.
 
-I'm a strong advocate for diversity and inclusion in the tech industry, I like to support people, mostly women who looking to break into the field. My goal is to achieve a positive impact in the world through technology.
+I am passionate about creating opportunities for individuals in tech. I am committed to leveraging technology to make a positive difference in the world.
 
-Strong teams, define a force of innovation, diversity, and progress.
+I believe that strong teams are the foundation of innovation, variety, and progress.
 
 <a href="https://app.daily.dev/hckmar"><img src="https://api.daily.dev/devcards/v2/U6Ax8dwrGZd659zGDhl3x.png?type=default&r=6g5" width="356" alt="Hckmar's Dev Card"/></a>
