@@ -1,13 +1,21 @@
 ## Hello World! My name is Tere :information_desk_person:
-I'm an IT Project Manager with over 16 years of experience in the technology sector. I specialize in leading cross-functional teams and fostering innovation to drive business success.
+With 17+ years in technology, I'm a Delivery Manager passionate about transforming ideas into impactful solutions. I specialize in building and leading high-performing teams that consistently deliver exceptional results.
 
-### My role as Technical Project Manager 🔭
+### 🚀 What I Do
 
-In my role, I motivate teams to reach their full potential, strategically identifying opportunities for innovation and implementing effective solutions.
- 
-Problem-solving, anticipating potential challenges, and mitigating risks are central to ensuring the success of projects.
+I motivate teams to reach their full potential, strategically identifying opportunities for innovation and implementing effective solutions. Problem-solving, anticipating potential challenges, and mitigating risks are central to ensuring the success of projects. I am passionate about creating opportunities for individuals in tech. I am committed to leveraging technology to make a positive difference in the world.
 
-I am passionate about creating opportunities for individuals in tech. I am committed to leveraging technology to make a positive difference in the world.
+### 💡 My Core Beliefs
+
+- Technology should be leveraged to create positive social impact
+- Continuous learning and adaptation are key to staying ahead in tech
+- Effective communication is the foundation of successful delivery
+
+### 🔍 Current Focus
+- Leading digital transformation initiatives
+- Mentoring emerging tech leaders
+- Building scalable delivery frameworks
+- Promoting sustainable development practices
 
 I believe that strong teams are the foundation of innovation, variety, and progress.
 
